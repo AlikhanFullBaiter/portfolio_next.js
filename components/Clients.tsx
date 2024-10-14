@@ -6,7 +6,7 @@ import { testimonials, companies } from '@/data'
 
 export default function Clients() {
 	return (
-		<div className='py-20' id='projects'>
+		<div className='py-20' id='testimonials'>
 			<h1 className='heading'>
 				Kind words from <span className='text-purple'>satisfied clients</span>
 			</h1>
